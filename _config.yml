@@ -17,12 +17,13 @@ plainwhite:
   tagline: Geophysical Engineer
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
+  disqus_shortname: guest
 
   # generate social links in footer
   social_links:
     twitter: smilesun_sh
-    github:  tersapp
-    zhihu:/people/sun-si-miao-64
+    github: tersapp
+    zhihu: /people/sun-si-miao-64
     #linkedIn: in/thelehhman
     rss: rss
     # dribbble: jekyll
