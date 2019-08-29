@@ -1,10 +1,11 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: Geophysical Engineer
+author: Andy Sun
+email: sunyz0204@163.com
 description: > # this means to ignore newlines until "show_exerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Focus on Seismic data processing, Seismic inversion
+  Interested in Coding, especially machine learning
+  A good listener and is easygoing
+  Contact me if you have something share to me
 show_excerpts: true # set to true to show excerpts on the homepage
 
 # Minima date format
