@@ -6,8 +6,16 @@ categories: 中国耐力赛 Costco 开市客
 ---
 ### 中国耐力赛
 国际赛车场离住的地方不是很远，但一直没有过去参观过，就索性在网上随便买了两张票去看看，结果发现国内的耐力赛事安排的有点乱，感觉还不如冷门球队的中超比赛，比赛确实也没什么精彩可言，车不好看，比赛也不刺激，如果没有震耳欲聋的发动机轰鸣声，估计观众们就昏昏欲睡了。
+
+_ _ _
+
+图等我图床正好了再更新，妈蛋！
+
+_ _ _
+
 **赛场入口**
-![赛场入口](https://github.com/tersapp/tuchuang/blob/master/20190901/entrance.jpg)
+![entrance.jpg](https://postimg.cc/wt4KdFmn)
+
 **入场口俯瞰图**
 ![入场口](https://github.com/tersapp/tuchuang/blob/master/20190901/01.jpg)
 ![入场口](https://github.com/tersapp/tuchuang/blob/master/20190901/02.jpg)
@@ -18,5 +26,6 @@ categories: 中国耐力赛 Costco 开市客
 
 
 
+_ _ _
 **我越来越喜欢markdown这个写文章的工具了，哇哈哈哈**
 
